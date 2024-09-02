@@ -2,7 +2,7 @@
 
 This is a frontend movie search application that allows users to search for movies, view detailed information, and save their favorite movies. The app features a responsive design, ensuring compatibility across various devices.
 
-#Deployement
+## Deployment
 
 ## Features
 
